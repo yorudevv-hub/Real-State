@@ -1,13 +1,22 @@
 {
-  "name": "cafeteria",
+  "name": "Real-State",
   "version": "1.0.0",
-  "description": "Delivery App, BEM, SASS, Gulp, CSS Grid",
+  "description": "Proyecto de maquetación de una página web de bienes raíces, utilizando HTML5, CSS3 y JavaScript.",
+  "homepage": "https://github.com/yorudevv-hub/Real-State#readme",
+  "bugs": {
+    "url": "https://github.com/yorudevv-hub/Real-State/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorudevv-hub/Real-State.git"
+  },
+  "license": "ISC",
+  "author": "YoruDevv",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Juan De la torre @codigoconjuan",
-  "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
     "cssnano": "^5.0.7",
@@ -15,7 +24,7 @@
     "gulp-avif": "^1.0.1",
     "gulp-imagemin": "^7.1.0",
     "gulp-postcss": "^9.0.0",
-    "gulp-sass": "^5.0.0",
+    "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-webp": "^4.0.1",
     "postcss": "^8.3.6",
